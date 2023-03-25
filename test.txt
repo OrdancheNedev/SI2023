@@ -1,2 +1,1 @@
-Base
-Master Base
+From base branch
