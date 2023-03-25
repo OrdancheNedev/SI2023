@@ -2,3 +2,4 @@ Super
 OK
 Vo red
 printf("Welcome to edureka").
+scanf("%d",&a)
